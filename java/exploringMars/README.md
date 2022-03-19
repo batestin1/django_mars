@@ -1,4 +1,4 @@
-# Exploring Mars
+# API Mars
 
 Projeto modelado com conceitos de Orientação a Objetos, tem como objetivo controlar sondas em um plano cartesiano através de instruções que serão recebidas via console.
 

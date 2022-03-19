@@ -1,4 +1,4 @@
-# Exploring Mars
+# API Mars
 
 API Rest feito em Django Rest Framework para controlar e movimentar sondas em um plano cartesiano através de instruções.
 

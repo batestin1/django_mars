@@ -1,4 +1,4 @@
-# Exporing Mars
+# API Mars
 
 Esse projeto está dividido em duas partes, Python e Java e tem como principal função a construção de uma API Rest desenvolvida em Python, utilizando seu framework Django Rest Framework e a parte core do projeto feita em Java modelado em OO.
 
